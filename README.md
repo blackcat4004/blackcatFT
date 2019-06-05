@@ -1,2 +1,3 @@
 # blackcatFT
 this is a personal test for building own repository
+to understand how branches work on github, I added some text to this ReadMe File....
